@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Otel_Randevu/1.0.0": {
+        "runtime": {
+          "Otel_Randevu.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Otel_Randevu/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
